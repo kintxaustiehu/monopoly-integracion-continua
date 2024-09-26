@@ -1,6 +1,6 @@
 package edu.ncsu.monopoly;
 
-// Another commit
+// Changed comment
 
 public abstract class Card {
 
